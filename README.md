@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 
 
 <!-- place this in your README.md -->
-## 🛠️ My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=6)
+
+# 👋 Hi, I’m Kevin  
+MIT MFin '26_
+
+## 🔭 I’m working on
+- Predicting mid-price movements in LOBs
+- LLM and SLM with financial data
+
+
+## ⚡ GitHub Stats
+![Kevin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hcw&show_icons=true&theme=radical)
