@@ -26,6 +26,3 @@ MIT MFin '26_
 - Predicting mid-price movements in LOBs
 - LLM and SLM with financial data
 
-
-## ⚡ GitHub Stats
-![Kevin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hcw&show_icons=true&theme=radical)
