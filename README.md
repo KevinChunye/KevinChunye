@@ -6,7 +6,7 @@ MIT MFin '26
 - LLM and SLM with financial data
 
 
-![Kevin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Kevin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinChunye&show_icons=true&theme=radical)
 
     </td>
 
@@ -15,7 +15,7 @@ MIT MFin '26
 
 ## 🛠️ Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinChunye&layout=compact&langs_count=6)
 
     </td>
   </tr>
