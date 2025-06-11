@@ -10,6 +10,3 @@ MIT MFin '26
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinChunye&layout=compact&langs_count=6)
 
-    </td>
-  </tr>
-</table>
