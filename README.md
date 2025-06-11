@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 # 👋 Hi, I’m Kevin  
-MIT MFin '26_
+MIT MFin '26
 
 ## 🔭 I’m working on
 - Predicting mid-price movements in LOBs
