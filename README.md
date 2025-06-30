@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kevin  
+# 👋 Hi, I’m Kev
 MIT MFin '26
 
 ## 🔭 I’m working on
