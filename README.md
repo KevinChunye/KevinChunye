@@ -1,10 +1,5 @@
-# 👋 Hi, I’m Kev
+# 👋 Hi, I’m Kevin
 MIT MFin '26
-
-## 🔭 I’m working on
-- Financial Engineering, Alpha Research, Market Making, Stats Arbs
-- Predicting mid-price movements in LOBs
-- LLM and SLM with financial data
 
 
 
