@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Kevin
-MIT MFin '26
-
 
 
 ## 🛠️ Top Languages
