@@ -4,7 +4,7 @@ I work at the intersection of machine learning, quantitative finance, and intell
 
 ## What I'm building
 
-**[AutoXiv](https://autoxiv.com)** — An AI-native preprint platform for automated paper evaluation and alpha extraction from academic research.
+**[AutoXiv](https://autoxiv.com)** — Trying RSI and Verifying AI outputs
 
 ## Interests
 
